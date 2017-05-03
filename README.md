@@ -36,7 +36,7 @@ mobile-developer, building RESTFUL API fast
 - 以后的主题控制尽量在半个小时以内并且要点阐述三点即可，重要的事情不需要说三遍，但重要的事情需要说三点，这就要求分享者前期有所准备。
 
 
-# 2.待定
+# 2. Android开发的主流技术栈
 
 released on 2017.04.30
 
@@ -75,3 +75,4 @@ RxJava, retrofit, 快速实用的解决问题
 - appium
 - jenkins
 - fastlane
+- 测试完成后的监控和报警
