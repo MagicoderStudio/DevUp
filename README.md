@@ -1,5 +1,5 @@
 
-# 1.为mobile-developer 快速搭建一个RESTFUL API的框架
+# 1.快速构建后端接口
 
 released on 2017.04.23
 
@@ -16,15 +16,15 @@ mobile-developer, building RESTFUL API fast
 
 **Show Notes:**
 
-从所在公司推荐的技术风向上讨论，大家对于当下已掌握技术有可替代的危机感，同时又觉得新兴技术带来的技术断层充满着机会，这一次只是在我们接触到的技术栈方面做了一次简单的探讨。
+大家对于当下已掌握技术有可替代的危机感，同时又觉得新兴技术充满着机会，第一次只是简单的探讨。
 
 
 **More Resources >>**
 
-- [java(SSH Framework). To be continue contributing]()
-- [php-Laravel. To be continue contributing]()
-- [SprintBoot. To be continue contributing]()
-- `curl http://127.0.0.1:8080/employees | jq .`   To show json format in terminal in jq commmand
+- [java(SSH Framework)]()
+- [php-Laravel]()
+- [SprintBoot]()
+- `curl http://127.0.0.1:8080/home | jq .`   To show json format in terminal in jq commmand
 - react
 - react-native
 - angular2
@@ -66,13 +66,18 @@ RxJava, retrofit, 快速实用的解决问题
 
 
 
-# 3. 前后端的压测工具
+# 3. 运维部署工具
 
+**Topic:**
+
+备份数据库，监控，报警，服务日志，代码自动提交，编译，自动打包部署，大数据  
 
 
 **More Resources >>**
 
 - appium
 - jenkins
-- fastlane
 - 测试完成后的监控和报警
+- 日志框架，ELK（elasticsearch， logstash， kibana）
+
+
