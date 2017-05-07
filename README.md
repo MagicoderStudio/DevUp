@@ -1,5 +1,14 @@
+<div id="toc">
 
-# 1.快速构建后端接口
+### 目录
+
+- [快速构建后端接口](#api)
+- [Android开发的主流技术栈](#android)
+- [运维工具](#ops)
+
+<div id="api">
+
+# 1.快速构建后端接口[↑](#toc)
 
 released on 2017.04.23
 
@@ -33,10 +42,11 @@ mobile-developer, building RESTFUL API fast
 
 **TO-DO Lists：**
 
-- 以后的主题控制尽量在半个小时以内并且要点阐述三点即可，重要的事情不需要说三遍，但重要的事情需要说三点，这就要求分享者前期有所准备。
+- 主题控制尽量在半个小时内并且要点突出三点即可，重要的事情不需要说三遍，但重要的事情需要说三点，需要前期做些准备。
 
+<div id="android">
 
-# 2. Android开发的主流技术栈
+# 2. Android开发的主流技术栈[↑](#toc)
 
 released on 2017.04.30
 
@@ -65,8 +75,9 @@ RxJava, retrofit, 快速实用的解决问题
 - MVP模式，Model-View-Presenter,数据-显示-逻辑处理
 
 
+<div id="ops">
 
-# 3. 运维部署工具
+# 3. 运维部署工具[↑](#toc)
 
 
 released on 2017.05.07
@@ -89,7 +100,6 @@ released on 2017.05.07
 
 **More Resources >>**
 
-- appium： 生成测试报告
 - jenkins : git提交代码之后， jenkis运行ant脚本打包，实现服务的自动，测试完成后的监控和报警
 - Fastlane - iOS 和 Android 的自动化构建工具
 - [JSON Server](https://github.com/typicode/json-server)： 模拟得到json字符串的服务
