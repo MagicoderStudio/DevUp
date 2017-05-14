@@ -5,6 +5,7 @@
 - [快速构建后端接口](#api)
 - [Android开发的主流技术栈](#android)
 - [运维工具](#ops)
+- [工作及工作以外分享](#job)
 
 <div id="api">
 
@@ -108,4 +109,27 @@ released on 2017.05.07
 - 日志框架，ELK（elasticsearch， logstash， kibana）
 - [代码质量随想录](http://agilemobidev.com/eastarlee/category/code-quality/)
 
+<div id="job">
 
+# 4. 工作及工作以外分享[↑](#toc)
+
+
+released on 2017.05.14
+
+**Host:**
+
+@jptiancai, @angelisno1
+
+**Guests:**
+
+
+
+**Topic:**
+
+接口调用，代理模式，大数据分析
+
+**Show Notes:**
+
+讨论了各自在工作中遇到的问题和工作以外的分享
+
+**More Resources >>**
