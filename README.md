@@ -133,3 +133,9 @@ released on 2017.05.14
 讨论了各自在工作中遇到的问题和工作以外的分享
 
 **More Resources >>**
+
+- [Java回调机制解析]（http://blog.csdn.net/bjyfb/article/details/10462555）
+- 代理模式
+- Hadoop
+- Hive
+- Hbase
