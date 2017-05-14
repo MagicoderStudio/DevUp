@@ -134,7 +134,7 @@ released on 2017.05.14
 
 **More Resources >>**
 
-- [Java回调机制解析]（http://blog.csdn.net/bjyfb/article/details/10462555）
+- [Java回调机制解析](http://blog.csdn.net/bjyfb/article/details/10462555)
 - 代理模式
 - Hadoop
 - Hive
