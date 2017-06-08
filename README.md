@@ -6,6 +6,7 @@
 - [Android开发的主流技术栈](#android)
 - [运维工具](#ops)
 - [工作及工作以外分享](#job)
+- [用AWS搭建VPN](#vpn)
 
 <div id="api">
 
@@ -139,3 +140,32 @@ released on 2017.05.14
 - Hadoop
 - Hive
 - Hbase
+
+<div id="vpn">
+# 4. 利用AWS搭建VPN[↑](#toc)
+
+
+released on 2017.06.04
+
+**Host:**
+
+@toureek
+
+**Guests:**
+@jptiancai
+
+
+**Topic:**
+
+利用AWS搭建VPN,可以免费用12个月
+
+**Show Notes:**
+
+利用AWS搭建VPN
+
+**More Resources >>**
+
+- [各种系统下Shadowsocks客户端的安装与配置](http://www.jeyzhang.com/how-to-install-and-setup-shadowsocks-client-in-different-os.html)
+
+
+
